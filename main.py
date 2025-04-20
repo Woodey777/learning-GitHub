@@ -11,10 +11,11 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 def main():
-    logger.info("Программа запущена")
+    logger.info("Программа запущена)))")
     print("Hello world!!!")
-    logger.info("Программа уже завершила работу")
+    logger.info("Программа завершила работу(((")
     print("feature1")
+    print("feature 2")
 
 if __name__ == "__main__":
     main()
