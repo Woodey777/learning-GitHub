@@ -12,8 +12,9 @@ logger = logging.getLogger(__name__)
 
 def main():
     logger.info("Программа запущена")
-    print("hello world!")
-    logger.info("Программа завершила работу")
+    print("Hello world!!!")
+    logger.info("Программа уже завершила работу")
+    print("fetrure1")
 
 if __name__ == "__main__":
     main()
