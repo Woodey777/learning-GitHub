@@ -16,6 +16,7 @@ def main():
     logger.info("Программа завершила работу(((")
     print("feature1")
     print("feature 2")
+    print("feture 3")
 
 if __name__ == "__main__":
     main()
