@@ -14,7 +14,7 @@ def main():
     logger.info("Программа запущена")
     print("Hello world!!!")
     logger.info("Программа уже завершила работу")
-    print("fetrure1")
+    print("feature1")
 
 if __name__ == "__main__":
     main()
